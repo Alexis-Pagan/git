@@ -3,8 +3,4 @@
 this is a simple readme file for learning
 second modification
 
-<<<<<<< HEAD
-just some updates
-=======
-just updates for branch updates
->>>>>>> updates
+welcome to github
